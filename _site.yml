@@ -11,8 +11,8 @@ navbar:
       menu:
         - text: "Mixed Effects with SPSS, SAS, and R"
           href: https://mbrow20.shinyapps.io/NewMarkDownWithShiny/
-        - text: "Three-Way ANOVA"
-          href: ThreeWay.html
+        - text: "Panel Regression and Two-Way Clustered Errors"
+          href: https://mbrow20.shinyapps.io/TwoWayClusteredErrorsMarkDown/
         - text: "Conjoint Analysis"
           href: ConjointAnalysis2.html
   right:
