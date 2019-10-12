@@ -13,8 +13,8 @@ navbar:
           href: https://mbrow20.shinyapps.io/NewMarkDownWithShiny/
         - text: "Panel Regression and Two-Way Clustered Errors"
           href: https://mbrow20.shinyapps.io/TwoWayClusteredErrorsMarkDown/
-        - text: "Conjoint Analysis"
-          href: ConjointAnalysis2.html
+        - text: "Estimating Effect Size With Binary Outcomes"
+          href: EffectSizeLogisticHTML.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
