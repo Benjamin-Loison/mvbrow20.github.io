@@ -15,8 +15,7 @@ navbar:
           href: https://mbrow20.shinyapps.io/TwoWayClusteredErrorsMarkDown/
         - text: "Estimating Effect Size With Binary Outcomes"
           href: EffectSizeLogisticHTML.html
-        - text: "App to Organize/Analyze Data"
-          href: https://mbrow20.shinyapps.io/shinySelectMod/
+        
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
