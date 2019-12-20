@@ -17,6 +17,8 @@ navbar:
           href: EffectSizeLogisticHTML.html
         - text: "Comparing Non-Parametric Effect Size Estimates"
           href: SignificantEffectSizeNonParametric2.html
+        - text: "Logistic Regression for Rare Events"
+          href: LogisticRegressionRareEvents.html
         
   right:
     - icon: fa-envelope fa-lg
