@@ -19,6 +19,8 @@ navbar:
           href: SignificantEffectSizeNonParametric2.html
         - text: "Logistic Regression for Rare Events"
           href: LogisticRegressionRareEvents.html
+        - text: "Pixel-Based Analysis in Python"
+          href: PearsonCorrelationPixelAnalysis.html
         
   right:
     - icon: fa-envelope fa-lg
