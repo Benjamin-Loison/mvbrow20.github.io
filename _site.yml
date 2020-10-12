@@ -21,6 +21,10 @@ navbar:
           href: LogisticRegressionRareEvents.html
         - text: "Pixel-Based Analysis in Python"
           href: PearsonCorrelationPixelAnalysis.html
+        - text: "App to Determine Post-Hoc Power Analysis for Rando-Intercept Model"
+          href: https://mbrow20.shinyapps.io/shinyPowerMarkDownJuly172020/
+        - text: "App to Create Propensity-Score Matched Data"
+          href: https://mark-brow.shinyapps.io/PSCompleteAnalysisWithDownload/
         
   right:
     - icon: fa-envelope fa-lg
